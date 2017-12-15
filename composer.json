@@ -1,5 +1,8 @@
 {
-  "name": "zendframework/zend-diactoros",
+  "name": "zendframework@iglue/zend-diactoros",
+  "replace": {
+    "zendframework/zend-diactoros": "1.4.1"
+  },
   "description": "PSR HTTP Message implementations",
   "type": "library",
   "license": "BSD-2-Clause",
